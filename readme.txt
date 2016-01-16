@@ -1,0 +1,1 @@
+Program to Scrape daily stock values, plot graphs, compare etc.
